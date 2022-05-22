@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "name": "TinDog-Start-master",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "liveServer.settings.port": 5501
+  }
+}
